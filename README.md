@@ -1,6 +1,6 @@
 # Extract PDF Information using ChatGPT API (OpenAI GPT-4o)
 
-This project demonstrates how to use OpenAI's ChatGPT API (with `gpt-4o`) to extract structured information from a PDF file — specifically a Brazilian employee form.
+This project demonstrates how to use OpenAI's ChatGPT API (with `gpt-4o`) to extract structured information from a PDF file, specifically a Brazilian employee form.
 
 ### Extracted Fields
 - Full Name
